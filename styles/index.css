@@ -1,10 +1,11 @@
-@import './font.css';
-@import './properties/line-height.css';
-@import './properties/letter-spacing.css';
+@import './properties/font-family.css';
 @import './properties/font-size.css';
 @import './properties/font-weight.css';
+@import './properties/line-height.css';
+@import './properties/letter-spacing.css';
 @import './properties/color.css';
 @import './properties/background-color.css';
+
 @import './elements/article.css';
 @import './elements/heading.css';
 @import './elements/paragraph.css';
