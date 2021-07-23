@@ -1,7 +1,7 @@
-import InputComponent from './ui/input.js'
+import InputComponent from './ui/input.js';
 
 const app = Vue.createApp({
-  template: `Howdy ho!`;
+  template: `Howdy ho!`,
 })
 .component('input', InputComponent);
 
